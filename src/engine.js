@@ -7,7 +7,7 @@ const gameEngine = (TASK, getNumber) => {
   const name = readlineSync.question('May I have your name? ');
   console.log(`Hello, ${name}!\n`);
   console.log(`${TASK}\n`);
-  for (let index = 0; index < ROUNDS; index++) {
+  for (let index = 0; index < ROUNDS; index += 1) {
     const [question, trueAnswer] = getNumber();
     console.log(`Question: ${question}`);
     const answer = readlineSync.question('You answer: ');
