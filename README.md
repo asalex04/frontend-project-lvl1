@@ -5,4 +5,8 @@
 
 This repository is created as an educational project
 
+## Install
+```sh
+$npm link frontend-projecr-lvl1-as
+```
 [![asciicast](https://asciinema.org/a/ZSO3SQ6saS0nxaHPkrTiXrtkD.svg)](https://asciinema.org/a/ZSO3SQ6saS0nxaHPkrTiXrtkD)
