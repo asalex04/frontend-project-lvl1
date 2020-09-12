@@ -17,3 +17,11 @@ The user sees a random number. He needs to answer yes if the number is even, or 
 ```$ brain-even```
 
 [![asciicast](https://asciinema.org/a/eo532CGIkM2phULhgOGJ5tyBs.svg)](https://asciinema.org/a/eo532CGIkM2phULhgOGJ5tyBs)
+
+### Game: Brain-calc
+The user sees a random mathematical expression that needs to be calculated and written down the correct answer.
+
+**start** 
+```$ brain-even```
+
+[![asciicast](https://asciinema.org/a/n3jdvNcVLvleoptCZOly3blaU.svg)](https://asciinema.org/a/n3jdvNcVLvleoptCZOly3blaU)
