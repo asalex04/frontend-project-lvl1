@@ -41,3 +41,11 @@ The user sees a series of numbers forming an arithmetic progression, one of whic
 ```# brain-progression```
 
 [![asciicast](https://asciinema.org/a/BoRGHUjdzCfd8BU1zUppobm06.svg)](https://asciinema.org/a/BoRGHUjdzCfd8BU1zUppobm06)
+
+### Game: Brain-prime
+The user sees a random number. He needs to answer yes if the number is prime, or no if not.
+
+**start**
+```$ brain-prime```
+
+[![asciicast](https://asciinema.org/a/TeCJhNuJtUKx3rvKnDgrvKeS6.svg)](https://asciinema.org/a/TeCJhNuJtUKx3rvKnDgrvKeS6)
