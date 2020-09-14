@@ -11,7 +11,7 @@ const getProgression = (start, step) => {
 const getRound = () => {
   const start = _.random(1, 100);
   const step = _.random(1, 10);
-  let sequence = getProgression(start, step)
+  let sequence = getProgression(start, step);
   const numRandom = _.random(0, 9);
   const trueAnswer = sequence[numRandom];
   sequence[numRandom] = '..';
