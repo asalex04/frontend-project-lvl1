@@ -33,3 +33,11 @@ The user sees two random numbers. The user must calculate and enter the greatest
 ```$ brain-gcd```
 
 [![asciicast](https://asciinema.org/a/DnHdnUqmZOZcp3BeDUl95sL9p.svg)](https://asciinema.org/a/DnHdnUqmZOZcp3BeDUl95sL9p)
+
+### Game: Brain-progression
+The user sees a series of numbers forming an arithmetic progression, one of which is represented by two dots. The player must identify and enter this number.
+
+**start**
+```# brain-progression```
+
+[![asciicast](https://asciinema.org/a/BoRGHUjdzCfd8BU1zUppobm06.svg)](https://asciinema.org/a/BoRGHUjdzCfd8BU1zUppobm06)
