@@ -25,3 +25,11 @@ The user sees a random mathematical expression that needs to be calculated and w
 ```$ brain-even```
 
 [![asciicast](https://asciinema.org/a/n3jdvNcVLvleoptCZOly3blaU.svg)](https://asciinema.org/a/n3jdvNcVLvleoptCZOly3blaU)
+
+### Game: Brain-gcd
+The user sees two random numbers. The user must calculate and enter the greatest common divisor of these numbers.
+
+**start**
+```$ brain-gcd```
+
+[![asciicast](https://asciinema.org/a/DnHdnUqmZOZcp3BeDUl95sL9p.svg)](https://asciinema.org/a/DnHdnUqmZOZcp3BeDUl95sL9p)
