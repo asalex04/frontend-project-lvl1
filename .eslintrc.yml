@@ -5,9 +5,9 @@ extends:
   - 'airbnb-base'
 
 parserOptions:
-  ecmaVersion: 11
+  ecmaVersion: 12
   sourceType: module
   
 rules: 
   no-console: 0
-  import/extensions: 0
+  import/extensions:0
