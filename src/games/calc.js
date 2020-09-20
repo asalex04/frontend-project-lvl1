@@ -18,13 +18,13 @@ const calculate = (a, b, operator) => {
   }
 };
 
-const getRound = () => {
+const getCalcTask = () => {
   const number1 = randomNumber(1, 100);
   const number2 = randomNumber(1, 100);
   const operator = operators[randomNumber(0, operators.length - 1)];
   const question = `${number1} ${operator} ${number2}`;
-  const answer = `${calculate(number1, number2, operator)}`;
-  return [question, answer];
+  const answer = calculate(number1, number2, operator);
+  return [question, String(answer)];
 };
 
-export default () => gameEngine(TASK, getRound);
+export default () => gameEngine(TASK, getCalcTask);

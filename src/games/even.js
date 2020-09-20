@@ -3,12 +3,12 @@ import randomNumber from '../utilits.js';
 
 const TASK = 'Answer "yes" if the number is even, otherwise answer "no".';
 
-const isEven = (number) => number % 2;
+const isEven = (number) => number % 2 === 0;
 
-const getNumber = () => {
+const getEvenTask = () => {
   const number = randomNumber(1, 100);
-  const answer = !isEven(number) ? 'yes' : 'no';
+  const answer = isEven(number) ? 'yes' : 'no';
   return [number, answer];
 };
 
-export default () => gameEngine(TASK, getNumber);
+export default () => gameEngine(TASK, getEvenTask);
