@@ -6,7 +6,7 @@ const TASK = 'What number is missing in the progression?';
 const progressionLength = 10;
 
 const getProgression = (start, step) => {
-  const end = start + 10 * step;
+  const end = start + progressionLength * step;
   return _.range(start, end, step).map(String);
 };
 

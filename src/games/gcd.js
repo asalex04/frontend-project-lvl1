@@ -9,7 +9,7 @@ const getGcdTask = () => {
   const num1 = randomNumber(0, 100);
   const num2 = randomNumber(0, 100);
   const question = `${num1} ${num2}`;
-  const correctAnswer = `${gcd(num1, num2)}`;
+  const correctAnswer = String(gcd(num1, num2));
   return [question, correctAnswer];
 };
 
