@@ -8,7 +8,7 @@ This repository is created as an educational project
 ### Install
 ```$ npm link frontend-projecr-lvl1-as```
 
-[![asciicast](https://asciinema.org/a/ZSO3SQ6saS0nxaHPkrTiXrtkD.svg)](https://asciinema.org/a/ZSO3SQ6saS0nxaHPkrTiXrtkD)
+[![asciicast](https://asciinema.org/a/aKcC4EEROYDjS0VaiT2QR95HI.svg)](https://asciinema.org/a/aKcC4EEROYDjS0VaiT2QR95HI)
 
 ### Game: Brain-even
 The user sees a random number. He needs to answer yes if the number is even, or no if odd.
@@ -16,7 +16,7 @@ The user sees a random number. He needs to answer yes if the number is even, or 
 **start** 
 ```$ brain-even```
 
-[![asciicast](https://asciinema.org/a/eo532CGIkM2phULhgOGJ5tyBs.svg)](https://asciinema.org/a/eo532CGIkM2phULhgOGJ5tyBs)
+[![asciicast](https://asciinema.org/a/61tx6NehYXPmFkoBOUCZzaXQh.svg)](https://asciinema.org/a/61tx6NehYXPmFkoBOUCZzaXQh)
 
 ### Game: Brain-calc
 The user sees a random mathematical expression that needs to be calculated and written down the correct answer.
@@ -24,7 +24,7 @@ The user sees a random mathematical expression that needs to be calculated and w
 **start** 
 ```$ brain-even```
 
-[![asciicast](https://asciinema.org/a/n3jdvNcVLvleoptCZOly3blaU.svg)](https://asciinema.org/a/n3jdvNcVLvleoptCZOly3blaU)
+[![asciicast](https://asciinema.org/a/IusaAC7bAAPZLxnd03ofRn9sA.svg)](https://asciinema.org/a/IusaAC7bAAPZLxnd03ofRn9sA)
 
 ### Game: Brain-gcd
 The user sees two random numbers. The user must calculate and enter the greatest common divisor of these numbers.
@@ -32,7 +32,7 @@ The user sees two random numbers. The user must calculate and enter the greatest
 **start**
 ```$ brain-gcd```
 
-[![asciicast](https://asciinema.org/a/DnHdnUqmZOZcp3BeDUl95sL9p.svg)](https://asciinema.org/a/DnHdnUqmZOZcp3BeDUl95sL9p)
+[![asciicast](https://asciinema.org/a/bUO3jQDmpwBgZY9SFtDk95VmQ.svg)](https://asciinema.org/a/bUO3jQDmpwBgZY9SFtDk95VmQ)
 
 ### Game: Brain-progression
 The user sees a series of numbers forming an arithmetic progression, one of which is represented by two dots. The player must identify and enter this number.
@@ -40,7 +40,7 @@ The user sees a series of numbers forming an arithmetic progression, one of whic
 **start**
 ```# brain-progression```
 
-[![asciicast](https://asciinema.org/a/BoRGHUjdzCfd8BU1zUppobm06.svg)](https://asciinema.org/a/BoRGHUjdzCfd8BU1zUppobm06)
+[![asciicast](https://asciinema.org/a/DqJXP1VX0sLvsPfhhspF451AM.svg)](https://asciinema.org/a/DqJXP1VX0sLvsPfhhspF451AM)
 
 ### Game: Brain-prime
 The user sees a random number. He needs to answer yes if the number is prime, or no if not.
@@ -48,4 +48,4 @@ The user sees a random number. He needs to answer yes if the number is prime, or
 **start**
 ```$ brain-prime```
 
-[![asciicast](https://asciinema.org/a/TeCJhNuJtUKx3rvKnDgrvKeS6.svg)](https://asciinema.org/a/TeCJhNuJtUKx3rvKnDgrvKeS6)
+[![asciicast](https://asciinema.org/a/dbvELTX6lDqL8aBpNCdn3UlWw.svg)](https://asciinema.org/a/dbvELTX6lDqL8aBpNCdn3UlWw)
